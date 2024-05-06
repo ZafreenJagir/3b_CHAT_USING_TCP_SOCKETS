@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME: ZAFREEN J
+## REGISTER NO:212223040252
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
